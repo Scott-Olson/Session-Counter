@@ -1,0 +1,14 @@
+a{
+	height: 10px;
+	background-color: silver;
+	border-radius: 2px;
+	border: 1px solid black;
+	text-decoration: none;
+	color: black;
+	padding: 2px 4px;
+	text-align: center;
+}
+
+div{
+	text-align: center;
+}
